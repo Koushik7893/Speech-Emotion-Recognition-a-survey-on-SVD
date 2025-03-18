@@ -71,8 +71,8 @@ Each model is implemented in its respective Jupyter notebook (`CNN.ipynb`, `LSTM
 
 ### 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/Speech-Emotion-Recognition-SVD.git
-cd Speech-Emotion-Recognition-SVD
+git clone https://github.com/Koushik7893/Speech-Emotion-Recognition-a-survey-on-SVD.git
+cd Speech-Emotion-Recognition-a-survey-on-SVD
 ```
 
 ### 2️⃣ **Install Dependencies**  
